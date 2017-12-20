@@ -1,3 +1,6 @@
+
+
+
 # Core Projects
 
 ### Node Implementations
@@ -6,9 +9,13 @@
 
 # Community Projects
 
+### NOTE! Do your own research about these projects. This is simply a directory of known / in-progress projects started by community members. 
+
 ### Wallet Implementations
 
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks.
+* [RaiW](https://github.com/gokr/raiw) - Wallet based on copay.
+
 
 ### SDKs
 
