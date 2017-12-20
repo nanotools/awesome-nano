@@ -15,6 +15,7 @@
 
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks.
 * [RaiW](https://github.com/gokr/raiw) - Wallet based on copay.
+* [rai-paper](https://github.com/Blootoon/rai-paper) -  Simple paper wallet fo RaiBlocks.
 
 
 ### SDKs
