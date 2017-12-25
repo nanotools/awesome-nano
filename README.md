@@ -1,6 +1,7 @@
 * [SDKs](#SDKs)
 * [Wallet Implementations](#WalletImplementations)
 * [Node Implementations](#NodeImplementations)
+* [Currency Converters](#RaiBlocksCurrencyConverters)
 
 
 
@@ -20,5 +21,9 @@
 ### SDKs
 <a name="SDKs"></a>
 * [RaiBlocksJS](https://github.com/jaimehgb/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management.
+
+### Currency Converters
+<a name="RaiBlocksCurrencyConverters"></a>
+* [RaiBlocks to Kronas](http://raiw.krampe.se/value.html?currency=raiblocks&to=sek&value=123)
 
 
