@@ -1,25 +1,24 @@
+* [SDKs](#SDKs)
+* [Wallet Implementations](#WalletImplementations)
+* [Node Implementations](#NodeImplementations)
 
 
 
-# Core Projects
 
 ### Node Implementations
-
+<a name="NodeImplementations"></a>
 * [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++.
 
-# Community Projects
-
-### NOTE! Do your own research about these projects. This is simply a directory of known / in-progress projects started by community members. 
 
 ### Wallet Implementations
-
+<a name="WalletImplementations"></a>
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks.
 * [RaiW](https://github.com/gokr/raiw) - Wallet based on copay.
 * [rai-paper](https://github.com/Blootoon/rai-paper) -  Simple paper wallet fo RaiBlocks.
 
 
 ### SDKs
-
+<a name="SDKs"></a>
 * [RaiBlocksJS](https://github.com/jaimehgb/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management.
 
 
