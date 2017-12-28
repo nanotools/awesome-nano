@@ -23,7 +23,7 @@
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks
 * [RaiW](https://github.com/gokr/raiw) - Wallet based on copay
 * [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
-* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet fo RaiBlocks
+* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
 
 ### RPC/Frontend Servers
 <a name="RPCServers"></a>
