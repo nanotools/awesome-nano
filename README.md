@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.imgur.com/CMUz7Ni.png"><b />
   <h2 align="center">A curated list of awesome RaiBlocks projects and resources.</h2>
+  <p> Note: With the recent spike in RaiBlocks popularity, there have been a lot of projects popping up. Most of these projects are still early in development. <b>Please do your own due diligence when getting involved.</b></p>
 </p>
-
 
 * [SDKs](#SDKs)
 * [Wallet Implementations](#WalletImplementations)
@@ -11,12 +11,10 @@
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
 
-
-
 ### Node Implementations
 <a name="NodeImplementations"></a>
 * [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++
-
+* [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
 
 ### Wallet Implementations
 <a name="WalletImplementations"></a>
