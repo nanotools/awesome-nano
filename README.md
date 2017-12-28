@@ -6,6 +6,7 @@
 
 * [SDKs](#SDKs)
 * [Wallet Implementations](#WalletImplementations)
+* [RPC/Frontend Servers](#RPCServers)
 * [Node Implementations](#NodeImplementations)
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
@@ -14,18 +15,24 @@
 
 ### Node Implementations
 <a name="NodeImplementations"></a>
-* [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++.
+* [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++
 
 
 ### Wallet Implementations
 <a name="WalletImplementations"></a>
-* [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks.
-* [RaiW](https://github.com/gokr/raiw) - Wallet based on copay.
-* [rai-paper](https://github.com/Blootoon/rai-paper) -  Simple paper wallet fo RaiBlocks.
+* [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks
+* [RaiW](https://github.com/gokr/raiw) - Wallet based on copay
+* [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
+* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet fo RaiBlocks
+
+### RPC/Frontend Servers
+<a name="RPCServers"></a>
+* [Rain Server](https://github.com/thehen101/RainServer) - Intermediary RaiBlocks wallet/node communicator
+
 
 ### SDKs
 <a name="SDKs"></a>
-* [RaiBlocksJS](https://github.com/jaimehgb/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management.
+* [RaiBlocksJS](https://github.com/jaimehgb/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
 
 ### Currency Converters
 <a name="RaiBlocksCurrencyConverters"></a>
@@ -33,5 +40,5 @@
 
 ### Network Tools
 <a name="NetworkTools"></a>
-* [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network.
+* [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
 
