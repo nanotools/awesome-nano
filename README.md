@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/CMUz7Ni.png"><b />
+  <h2 align="center">A curated list of awesome RaiBlocks projects and resources.</h2>
+</p>
+
+
 * [SDKs](#SDKs)
 * [Wallet Implementations](#WalletImplementations)
 * [Node Implementations](#NodeImplementations)
