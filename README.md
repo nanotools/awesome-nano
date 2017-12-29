@@ -22,6 +22,8 @@
 * [Canoe](https://getcanoe.io/) - Wallet based on copay
 * [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
+* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python raiblocks light wallet.
+
 
 ### RPC/Frontend Servers
 <a name="RPCServers"></a>
