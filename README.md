@@ -19,7 +19,7 @@
 ### Wallet Implementations
 <a name="WalletImplementations"></a>
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks
-* [RaiW](https://github.com/gokr/raiw) - Wallet based on copay
+* [Canoe](https://getcanoe.io/) - Wallet based on copay
 * [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
 
