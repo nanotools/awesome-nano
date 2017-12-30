@@ -20,13 +20,14 @@
 ### Wallet Implementations
 <a name="WalletImplementations"></a>
 * [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks
-* [Canoe](https://getcanoe.io/) - Wallet based on copay
+* [Canoe](https://getcanoe.io) - Cross platform desktop and mobile light Wallet based on Copay
 * [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
 
 ### RPC/Frontend Servers
 <a name="RPCServers"></a>
 * [Rain Server](https://github.com/thehen101/RainServer) - Intermediary RaiBlocks wallet/node communicator
+* [Canoed Server](https://github.com/gokr/canoed) - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
 
 ### SDKs
 <a name="SDKs"></a>
@@ -34,7 +35,7 @@
 
 ### Currency Converters
 <a name="RaiBlocksCurrencyConverters"></a>
-* [RaiBlocks to Kronas](http://raiw.krampe.se/value.html?currency=raiblocks&to=sek&value=123)
+* [Simple currency converter](http://raiw.krampe.se/value.html?currency=raiblocks&to=usd&value=100) - Converts from one currency to another, via Coinmarketcap API, using URL params and updates every 10 seconds.
 
 ### Tickers
 <a name="Tickers"></a>
