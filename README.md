@@ -17,7 +17,7 @@
 ### SDKs
 * [RaiBlocksJS](https://github.com/SergiySW/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
 
-<a name="Informational"></a>
+<a name="BlockExplorers"></a>
 ### Block Explorers
 * [Raiblocks.club](https://www.raiblocks.club)
 
