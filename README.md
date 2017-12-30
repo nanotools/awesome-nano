@@ -31,7 +31,7 @@
 
 ### SDKs
 <a name="SDKs"></a>
-* [RaiBlocksJS](https://github.com/jaimehgb/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
+* [RaiBlocksJS](https://github.com/SergiySW/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
 
 ### Currency Converters
 <a name="RaiBlocksCurrencyConverters"></a>
