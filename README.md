@@ -5,6 +5,7 @@
 </p>
 
 * [SDKs](#SDKs)
+* [Bots](#Bots)
 * [Block Explorers](#BlockExplorers)
 * [Node Implementations](#NodeImplementations)
 * [Wallet Implementations](#WalletImplementations)
@@ -16,6 +17,10 @@
 <a name="SDKs"></a>
 ### SDKs
 * [RaiBlocksJS](https://github.com/SergiySW/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
+
+<a name="Bots"></a>
+### Bots
+* [RaiWalletBot](https://github.com/SergiySW/RaiWalletBot) - Telegram bot 
 
 <a name="BlockExplorers"></a>
 ### Block Explorers
