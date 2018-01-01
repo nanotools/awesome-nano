@@ -60,5 +60,5 @@
 
 <a name="Merchants"></a>
 ### Merchants
-* [Merchants]https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
+* [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
 
