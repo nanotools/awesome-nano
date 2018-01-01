@@ -13,6 +13,7 @@
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
+* [Merchants](#Merchants)
 
 <a name="SDKs"></a>
 ### SDKs
@@ -56,4 +57,8 @@
 <a name="NetworkTools"></a>
 ### Network Tools
 * [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
+
+<a name="Merchants"></a>
+### Merchants
+* [Merchants]https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
 
