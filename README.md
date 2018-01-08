@@ -39,12 +39,14 @@
 * [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
 * [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python raiblocks light wallet.
+* [RaiBlocks Light Wallet](https://github.com/AugustoResende/RaiLightWallet) - A light RaiBlocks wallet in nw.js
 
 <a name="RPCServers"></a>
 ### RPC/Frontend Servers
 * [Rain Server](https://github.com/thehen101/RainServer) - Intermediary RaiBlocks wallet/node communicator
 * [Canoed Server](https://github.com/getcanoe/canoed) - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
 * [Prai](https://github.com/jxub/prai) - Raiblocks Python RPC client
+* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) - RaiBlocks decentralized wallet/node for light wallets.
 
 <a name="RaiBlocksCurrencyConverters"></a>
 ### Currency Converters
