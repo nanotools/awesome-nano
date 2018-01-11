@@ -21,7 +21,7 @@
 
 <a name="Bots"></a>
 ### Bots
-* [RaiWalletBot](https://github.com/SergiySW/RaiWalletBot) - Telegram bot 
+* [RaiWalletBot](https://github.com/SergiySW/RaiWalletBot) - Telegram bot
 
 <a name="BlockExplorers"></a>
 ### Block Explorers
@@ -47,6 +47,7 @@
 * [Canoed Server](https://github.com/getcanoe/canoed) - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
 * [Prai](https://github.com/jxub/prai) - Raiblocks Python RPC client
 * [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) - RaiBlocks decentralized wallet/node for light wallets.
+* [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) - Raiblocks Python RPC client and toolkit
 
 <a name="RaiBlocksCurrencyConverters"></a>
 ### Currency Converters
