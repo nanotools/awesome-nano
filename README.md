@@ -67,3 +67,6 @@
 ### Merchants
 * [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
 
+### Privacy/anonimity 
+* [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local
+  transaction scrambler.
