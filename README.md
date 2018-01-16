@@ -14,6 +14,7 @@
 * [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
 * [Merchants](#Merchants)
+* [Privacy & Anonimity](#Privacy)
 
 <a name="SDKs"></a>
 ### SDKs
@@ -67,6 +68,7 @@
 ### Merchants
 * [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
 
-### Privacy/anonimity 
+<a name="Privacy"></a>
+### Privacy & Anonimity 
 * [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local
   transaction scrambler.
