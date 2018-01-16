@@ -72,3 +72,6 @@
 ### Privacy & Anonimity 
 * [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local
   transaction scrambler.
+
+### Website integration
+* [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
