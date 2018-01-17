@@ -15,6 +15,7 @@
 * [Tickers](#Tickers)
 * [Merchants](#Merchants)
 * [Privacy & Anonimity](#Privacy)
+* [Website integration](#WebIntegration)
 
 <a name="SDKs"></a>
 ### SDKs
@@ -72,3 +73,7 @@
 ### Privacy & Anonimity 
 * [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local
   transaction scrambler.
+
+<a name="WebIntegration"></a>
+### Website integration
+* [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
