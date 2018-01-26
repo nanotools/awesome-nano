@@ -46,13 +46,13 @@
 * [RaiBlocks Light Wallet](https://github.com/AugustoResende/RaiLightWallet) - A light RaiBlocks wallet in nw.js
 
 <a name="RPCServers"></a>
-### RPC/Frontend Servers
-* [Rain Server](https://github.com/thehen101/RainServer) - Intermediary RaiBlocks wallet/node communicator
-* [Canoed Server](https://github.com/getcanoe/canoed) - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
-* [Prai](https://github.com/jxub/prai) - Raiblocks Python RPC client
-* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) - RaiBlocks decentralized wallet/node for light wallets.
-* [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) - Raiblocks Python RPC client and toolkit
-* [rai](https://github.com/kennell/rai) - A pythonic RPC client
+### Libraries and RPC clients
+* [Rain Server](https://github.com/thehen101/RainServer) [Java] - Intermediary RaiBlocks wallet/node communicator
+* [Canoed Server](https://github.com/getcanoe/canoed) [Nim] - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
+* [Prai](https://github.com/jxub/prai) [Python] - Raiblocks Python RPC client
+* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) [JavaScript] - RaiBlocks decentralized wallet/node for light wallets.
+* [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Raiblocks Python RPC client and toolkit
+* [rai](https://github.com/kennell/rai) [Python] - A pythonic RPC client
 
 
 <a name="RaiBlocksCurrencyConverters"></a>
