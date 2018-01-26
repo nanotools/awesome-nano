@@ -52,6 +52,8 @@
 * [Prai](https://github.com/jxub/prai) - Raiblocks Python RPC client
 * [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) - RaiBlocks decentralized wallet/node for light wallets.
 * [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) - Raiblocks Python RPC client and toolkit
+* [rai](https://github.com/kennell/rai) - A pythonic RPC client
+
 
 <a name="RaiBlocksCurrencyConverters"></a>
 ### Currency Converters
