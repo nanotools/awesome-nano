@@ -28,6 +28,7 @@
 <a name="BlockExplorers"></a>
 ### Block Explorers
 * [Raiblocks.club](https://www.raiblocks.club)
+* [Rai.watch](https://rai.watch)
 
 <a name="NodeImplementations"></a>
 ### Node Implementations
