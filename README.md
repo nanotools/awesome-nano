@@ -9,13 +9,13 @@
 * [Block Explorers](#BlockExplorers)
 * [Node Implementations](#NodeImplementations)
 * [Wallet Implementations](#WalletImplementations)
-* [RPC/Frontend Servers](#RPCServers)
+* [Libraries and RPC clients](#RPCServers)
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
 * [Merchants](#Merchants)
 * [Privacy & Anonimity](#Privacy)
-* [Website integration](#WebIntegration)
+* [Web & Ecommerce Integration](#WebIntegration)
 
 <a name="SDKs"></a>
 ### SDKs
@@ -78,5 +78,11 @@
   transaction scrambler.
 
 <a name="WebIntegration"></a>
-### Website integration
+### Web & Ecommerce Integration
 * [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
+* [WooCommerce BrainBlocks](https://github.com/brainblocks/woocommerce-brainblocks) - WooCommerce plugin for BrainBlocks
+* [BrainBlocks iOS App](https://github.com/brainblocks/brainblocks-ios) - BrainBlocks iOS app
+* [BrainBlocks iOS SDK](https://github.com/brainblocks/brainblocks-ios-sdk) - iOS SDK for integrating BrainBlocks into a mobile app
+* [BrainBlocks js client](https://github.com/brainblocks/brainblocks) - Client-side javascript client for brainblocks.io
+
+
