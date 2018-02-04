@@ -35,7 +35,7 @@
 * [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++
 * [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
 * [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full RaiBlocks node written in C#
-* [GoRai](https://github.com/frankh/rai) - Node in early development, written in GoLang
+* [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
 
 <a name="WalletImplementations"></a>
 ### Wallet Implementations
