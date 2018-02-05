@@ -27,8 +27,8 @@
 
 <a name="BlockExplorers"></a>
 ### Block Explorers
-* [Raiblocks.club](https://www.raiblocks.club)
-* [Rai.watch](https://rai.watch)
+* [Nanode.co](https://www.nanode.co/)
+* [Nanowat.ch](https://nanowat.ch/)
 
 <a name="NodeImplementations"></a>
 ### Node Implementations
