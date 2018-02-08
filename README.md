@@ -56,6 +56,7 @@
 * [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) [JavaScript] - Nano decentralized wallet/node for light wallets.
 * [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Nano Python RPC client and toolkit
 * [rai](https://github.com/kennell/rai) [Python] - A pythonic RPC client
+* [NanoDotNet](https://github.com/Flufd/NanoDotNet) [C#] - A .NET RPC Client
 * [bitcougar-wallet-webservice](https://github.com/eduardofacunha/bitcougar-wallet-webservice) [PHP] - A PHP webservice for Nano light wallets.
 
 <a name="RaiBlocksCurrencyConverters"></a>
