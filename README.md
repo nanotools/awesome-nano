@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/CMUz7Ni.png"><b />
-  <h2 align="center">A curated list of awesome RaiBlocks projects and resources.</h2>
-  <p> Note: With the recent spike in RaiBlocks popularity, there have been a lot of projects popping up. Most of these projects are still early in development. <b>Please do your own due diligence when getting involved.</b></p>
+  <h2 align="center">A curated list of awesome Nano projects and resources.</h2>
+  <p> Note: With the recent spike in Nano popularity, there have been a lot of projects popping up. Most of these projects are still early in development. <b>Please do your own due diligence when getting involved.</b></p>
 </p>
 
 * [SDKs](#SDKs)
@@ -19,42 +19,44 @@
 
 <a name="SDKs"></a>
 ### SDKs
-* [RaiBlocksJS](https://github.com/SergiySW/RaiBlocksJS) - JavaScript functions for RaiBlocks node/wallet management
+* [RaiBlocksJS](https://github.com/SergiySW/RaiBlocksJS) - JavaScript functions for Nano node/wallet management
 
 <a name="Bots"></a>
 ### Bots
-* [RaiWalletBot](https://github.com/SergiySW/RaiWalletBot) - Telegram bot
+* [NanoWalletBot](https://github.com/SergiySW/NanoWalletBot) - Telegram bot
 
 <a name="BlockExplorers"></a>
 ### Block Explorers
-* [Raiblocks.club](https://www.raiblocks.club)
-* [Rai.watch](https://rai.watch)
+* [Nanode.co](https://www.nanode.co/)
+* [Nanowat.ch](https://nanowat.ch/)
 
 <a name="NodeImplementations"></a>
 ### Node Implementations
-* [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - RaiBlocks core node written in C++
+* [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - Nano core node written in C++
 * [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
-* [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full RaiBlocks node written in C#
-* [GoRai](https://github.com/frankh/rai) - Node in early development, written in GoLang
+* [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
+* [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
 
 <a name="WalletImplementations"></a>
 ### Wallet Implementations
-* [RaiWebWallet](https://github.com/jaimehgb/RaiWebWallet) - Popular web wallet for RaiBlocks
+* [NanoWebWallet](https://github.com/jaimehgb/RaiWalletV2/) - Popular web wallet for Nano
 * [Canoe](https://getcanoe.io) - Cross platform desktop and mobile light Wallet based on Copay
-* [Rain](https://github.com/thehen101/Rain) - A light RaiBlocks wallet written in Java
-* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for RaiBlocks
-* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python raiblocks light wallet.
+* [Rain](https://github.com/thehen101/Rain) - A light Nano  wallet written in Java
+* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano
+* [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Paper wallet with seed and address generation
+* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet.
 * [RaiBlocks Light Wallet](https://github.com/AugustoResende/RaiLightWallet) - A light RaiBlocks wallet in nw.js
+* [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
 
 <a name="RPCServers"></a>
 ### Libraries and RPC clients
-* [Rain Server](https://github.com/thehen101/RainServer) [Java] - Intermediary RaiBlocks wallet/node communicator
+* [Rain Server](https://github.com/thehen101/RainServer) [Java] - Intermediary Nano wallet/node communicator
 * [Canoed Server](https://github.com/getcanoe/canoed) [Nim] - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
-* [Prai](https://github.com/jxub/prai) [Python] - Raiblocks Python RPC client
-* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) [JavaScript] - RaiBlocks decentralized wallet/node for light wallets.
-* [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Raiblocks Python RPC client and toolkit
+* [Prai](https://github.com/jxub/prai) [Python] - Nano Python RPC client
+* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) [JavaScript] - Nano decentralized wallet/node for light wallets.
+* [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Nano Python RPC client and toolkit
 * [rai](https://github.com/kennell/rai) [Python] - A pythonic RPC client
-
+* [bitcougar-wallet-webservice](https://github.com/eduardofacunha/bitcougar-wallet-webservice) [PHP] - A PHP webservice for Nano light wallets.
 
 <a name="RaiBlocksCurrencyConverters"></a>
 ### Currency Converters
@@ -70,12 +72,11 @@
 
 <a name="Merchants"></a>
 ### Merchants
-* [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept RaiBlocks
+* [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept Nano
 
 <a name="Privacy"></a>
 ### Privacy & Anonimity 
-* [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local
-  transaction scrambler.
+* [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local transaction scrambler.
 
 <a name="WebIntegration"></a>
 ### Web & Ecommerce Integration
