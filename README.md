@@ -67,6 +67,11 @@
 ### Tickers
 * [RaiMoon](https://github.com/dannytatom/RaiMoon) - Mac Menu App Bar Ticker
 
+<a name="Apps"></a>
+### Apps
+* [Cledge](https://itunes.apple.com/us/app/cledge/id1330236044?mt=8) [iOS] App Price tracker
+* [Nano - Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8) [iOS] App Price tracker
+
 <a name="NetworkTools"></a>
 ### Network Tools
 * [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
