@@ -13,6 +13,7 @@
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
+* [Production Apps](#ProductionApps)
 * [Merchants](#Merchants)
 * [Privacy & Anonimity](#Privacy)
 * [Web & Ecommerce Integration](#WebIntegration)
@@ -67,6 +68,11 @@
 ### Tickers
 * [RaiMoon](https://github.com/dannytatom/RaiMoon) - Mac Menu App Bar Ticker
 
+<a name="ProductionApps"></a>
+### Production Apps
+* [Cledge](https://itunes.apple.com/us/app/cledge/id1330236044?mt=8) [iOS] App Price tracker
+* [Nano - Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8) [iOS] App Price tracker
+
 <a name="NetworkTools"></a>
 ### Network Tools
 * [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
@@ -83,6 +89,7 @@
 ### Web & Ecommerce Integration
 * [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
 * [WooCommerce BrainBlocks](https://github.com/brainblocks/woocommerce-brainblocks) - WooCommerce plugin for BrainBlocks
+* [BrainBlocks Android App](https://github.com/brainblocks/brainblocks-android) - BrainBlocks Android App
 * [BrainBlocks iOS App](https://github.com/brainblocks/brainblocks-ios) - BrainBlocks iOS app
 * [BrainBlocks iOS SDK](https://github.com/brainblocks/brainblocks-ios-sdk) - iOS SDK for integrating BrainBlocks into a mobile app
 * [BrainBlocks js client](https://github.com/brainblocks/brainblocks) - Client-side javascript client for brainblocks.io
