@@ -13,6 +13,7 @@
 * [Currency Converters](#RaiBlocksCurrencyConverters)
 * [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
+* [Production Apps](#ProductionApps)
 * [Merchants](#Merchants)
 * [Privacy & Anonimity](#Privacy)
 * [Web & Ecommerce Integration](#WebIntegration)
@@ -66,6 +67,11 @@
 <a name="Tickers"></a>
 ### Tickers
 * [RaiMoon](https://github.com/dannytatom/RaiMoon) - Mac Menu App Bar Ticker
+
+<a name="ProductionApps"></a>
+### Production Apps
+* [Cledge](https://itunes.apple.com/us/app/cledge/id1330236044?mt=8) [iOS] App Price tracker
+* [Nano - Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8) [iOS] App Price tracker
 
 <a name="NetworkTools"></a>
 ### Network Tools
