@@ -83,6 +83,7 @@
 ### Web & Ecommerce Integration
 * [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
 * [WooCommerce BrainBlocks](https://github.com/brainblocks/woocommerce-brainblocks) - WooCommerce plugin for BrainBlocks
+* [BrainBlocks Android App](https://github.com/brainblocks/brainblocks-android) - BrainBlocks Android App
 * [BrainBlocks iOS App](https://github.com/brainblocks/brainblocks-ios) - BrainBlocks iOS app
 * [BrainBlocks iOS SDK](https://github.com/brainblocks/brainblocks-ios-sdk) - iOS SDK for integrating BrainBlocks into a mobile app
 * [BrainBlocks js client](https://github.com/brainblocks/brainblocks) - Client-side javascript client for brainblocks.io
