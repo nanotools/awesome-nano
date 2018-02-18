@@ -46,7 +46,7 @@
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano
 * [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Paper wallet with seed and address generation
 * [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet.
-* [RaiBlocks Light Wallet](https://github.com/AugustoResende/RaiLightWallet) - A light RaiBlocks wallet in nw.js
+* [Nano Light Wallet](https://github.com/AugustoResende/NanoLightWallet) - A light Nano wallet in nw.js
 * [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
 
 <a name="RPCServers"></a>
@@ -54,7 +54,7 @@
 * [Rain Server](https://github.com/thehen101/RainServer) [Java] - Intermediary Nano wallet/node communicator
 * [Canoed Server](https://github.com/getcanoe/canoed) [Nim] - An intermediary wallet/node middle layer written in Nim for the Canoe wallet.
 * [Prai](https://github.com/jxub/prai) [Python] - Nano Python RPC client
-* [RaiBlocks Light Server](https://github.com/AugustoResende/RaiLightServer) [JavaScript] - Nano decentralized wallet/node for light wallets.
+* [Nano Light Server](https://github.com/AugustoResende/NanoLightServer) [JavaScript] - Nano decentralized wallet/node for light wallets.
 * [Raiblocks-py](https://github.com/dourvaris/raiblocks-py) [Python] - Nano Python RPC client and toolkit
 * [rai](https://github.com/kennell/rai) [Python] - A pythonic RPC client
 * [NanoDotNet](https://github.com/Flufd/NanoDotNet) [C#] - A .NET RPC Client
