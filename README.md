@@ -17,6 +17,7 @@
 * [Merchants](#Merchants)
 * [Privacy & Anonimity](#Privacy)
 * [Web & Ecommerce Integration](#WebIntegration)
+* [Proof of Work Implementations](#ProofofWork)
 
 <a name="SDKs"></a>
 ### SDKs
@@ -37,6 +38,7 @@
 * [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
 * [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
 * [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
+* [Node.js Nano Node](https://github.com/numtel/node-nano-node) - Nano partial node, written in NodeJS
 
 <a name="WalletImplementations"></a>
 ### Wallet Implementations
@@ -45,9 +47,11 @@
 * [Rain](https://github.com/thehen101/Rain) - A light Nano  wallet written in Java
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano
 * [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Paper wallet with seed and address generation
-* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet.
+* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet
 * [Nano Light Wallet](https://github.com/AugustoResende/NanoLightWallet) - A light Nano wallet in nw.js
 * [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
+* [xrb-light-wallet](https://github.com/numtel/xrb-light-wallet) - Web Nano wallet implementation
+* [raivault](https://github.com/cronoh/raivault) - Another Nano wallet, for web and desktop
 
 <a name="RPCServers"></a>
 ### Libraries and RPC clients
@@ -94,4 +98,8 @@
 * [BrainBlocks iOS SDK](https://github.com/brainblocks/brainblocks-ios-sdk) - iOS SDK for integrating BrainBlocks into a mobile app
 * [BrainBlocks js client](https://github.com/brainblocks/brainblocks) - Client-side javascript client for brainblocks.io
 
-
+<a name="ProofofWork"></a>
+### Proof of Work Implementations
+* [nano-webgl-pow](https://github.com/numtel/nano-webgl-pow) - Nano PoW using WebGL
+* [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW) - Nano PoW using WebAssembly
+* [node-raiblocks-pow](https://github.com/numtel/node-raiblocks-pow) - Nano PoW using compiled C++ for NodeJS
