@@ -95,7 +95,8 @@
 ### Proof of Work Implementations
 * [nano-webgl-pow](https://github.com/numtel/nano-webgl-pow) - Nano PoW using WebGL
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW) - Nano PoW using WebAssembly
-* [node-raiblocks-pow](https://github.com/numtel/node-raiblocks-pow) - Nano PoW using compiled C++ for NodeJS
+* [node-raiblocks-pow](https://github.com/numtel/node-raiblocks-pow) - Nano NodeJS PoW using native compiled C++
+* [nano-pow-rs](https://github.com/termhn/nanopow-rs/) - Nano PoW written in Rust
 
 <a name="Merchants"></a>
 ### Merchants
