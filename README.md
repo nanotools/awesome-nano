@@ -4,20 +4,46 @@
   <p> Note: With the recent spike in Nano popularity, there have been a lot of projects popping up. Most of these projects are still early in development. <b>Please do your own due diligence when getting involved.</b></p>
 </p>
 
+* [Nano Wallets](#NanoWallets)
+* [Nano Paper Wallets](#NanoPaperWallets)
+* [Node Implementations](#NodeImplementations)
 * [SDKs](#SDKs)
 * [Bots](#Bots)
 * [Block Explorers](#BlockExplorers)
-* [Node Implementations](#NodeImplementations)
-* [Wallet Implementations](#WalletImplementations)
 * [Libraries and RPC clients](#RPCServers)
 * [Currency Converters](#RaiBlocksCurrencyConverters)
-* [Network Tools](#NetworkTools)
 * [Tickers](#Tickers)
 * [Production Apps](#ProductionApps)
 * [Merchants](#Merchants)
-* [Privacy & Anonimity](#Privacy)
 * [Web & Ecommerce Integration](#WebIntegration)
 * [Proof of Work Implementations](#ProofofWork)
+* [Vanity Address Generators](#VanityAddress)
+* [Network Tools](#NetworkTools)
+* [Privacy & Anonimity](#Privacy)
+<a name="NanoWallets"></a>
+### Nano Wallets
+* [NanoWebWallet](https://github.com/jaimehgb/RaiWalletV2/) - Popular web wallet for Nano
+* [Canoe](https://getcanoe.io) - Cross platform desktop and mobile light Wallet based on Copay
+* [Nano Light Wallet](https://github.com/AugustoResende/NanoLightWallet) - A light Nano wallet build with Electron and NodeJS
+* [Rain](https://github.com/thehen101/Rain) - A light Nano wallet written in Java
+* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet
+* [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
+* [xrb-light-wallet](https://github.com/numtel/xrb-light-wallet) - Another Nano web wallet implementation
+* [raivault](https://github.com/cronoh/raivault) - Another Nano web and desktop wallet
+
+<a name="NanoPaperWallets"></a>
+### Nano Paper Wallets
+* [nano-paper-wallet](https://github.com/vitorcremonez/nano-paper-wallet) - Amazing Nano paper wallet with beautiful design
+* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano, without seed and address generation
+* [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Simple paper wallet with seed and address generation
+
+<a name="NodeImplementations"></a>
+### Node Implementations
+* [Nano Core Native Node](https://github.com/nanocurrency/raiblocks) - Nano core node written in C++
+* [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
+* [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
+* [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
+* [Node.js Nano Node](https://github.com/numtel/node-nano-node) - Nano partial node, written in NodeJS
 
 <a name="SDKs"></a>
 ### SDKs
@@ -31,27 +57,6 @@
 ### Block Explorers
 * [Nanode.co](https://www.nanode.co/)
 * [Nanowat.ch](https://nanowat.ch/)
-
-<a name="NodeImplementations"></a>
-### Node Implementations
-* [RaiBlocks Core Native Node](https://github.com/clemahieu/raiblocks) - Nano core node written in C++
-* [Prailude](https://github.com/slact/prailude) - Node in early development, written in Lua and C
-* [RaiSharp](https://github.com/vardthomas/Aggrex.RaiSharp) - Full Nano node written in C#
-* [GoNano](https://github.com/frankh/nano) - Node in early development, written in GoLang
-* [Node.js Nano Node](https://github.com/numtel/node-nano-node) - Nano partial node, written in NodeJS
-
-<a name="WalletImplementations"></a>
-### Wallet Implementations
-* [NanoWebWallet](https://github.com/jaimehgb/RaiWalletV2/) - Popular web wallet for Nano
-* [Canoe](https://getcanoe.io) - Cross platform desktop and mobile light Wallet based on Copay
-* [Rain](https://github.com/thehen101/Rain) - A light Nano  wallet written in Java
-* [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano
-* [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Paper wallet with seed and address generation
-* [XRBLightWallet](https://github.com/BenedictThompson/XRBLightWallet) - Python Nano light wallet
-* [Nano Light Wallet](https://github.com/AugustoResende/NanoLightWallet) - A light Nano wallet in nw.js
-* [BitCougar Wallet](https://github.com/eduardofacunha/bitcougar-wallet) - Light wallet for Android
-* [xrb-light-wallet](https://github.com/numtel/xrb-light-wallet) - Web Nano wallet implementation
-* [raivault](https://github.com/cronoh/raivault) - Another Nano wallet, for web and desktop
 
 <a name="RPCServers"></a>
 ### Libraries and RPC clients
@@ -77,18 +82,6 @@
 * [Cledge](https://itunes.apple.com/us/app/cledge/id1330236044?mt=8) [iOS] App Price tracker
 * [Nano - Track](https://itunes.apple.com/us/app/nano-track-%24nano-price/id1324787752?mt=8) [iOS] App Price tracker
 
-<a name="NetworkTools"></a>
-### Network Tools
-* [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
-
-<a name="Merchants"></a>
-### Merchants
-* [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept Nano
-
-<a name="Privacy"></a>
-### Privacy & Anonimity 
-* [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local transaction scrambler.
-
 <a name="WebIntegration"></a>
 ### Web & Ecommerce Integration
 * [do.rai.me](https://doraime.com/) - Donation widget and transaction alerts.
@@ -103,3 +96,20 @@
 * [nano-webgl-pow](https://github.com/numtel/nano-webgl-pow) - Nano PoW using WebGL
 * [RaiBlocksWebAssemblyPoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW) - Nano PoW using WebAssembly
 * [node-raiblocks-pow](https://github.com/numtel/node-raiblocks-pow) - Nano PoW using compiled C++ for NodeJS
+
+<a name="Merchants"></a>
+### Merchants
+* [SpendRaiBlocks](https://www.spendraiblocks.com/) - A list of merchants who accept Nano
+
+<a name="VanityAddress"></a>
+### Vanity Address Generators
+* [nano-vanity](https://github.com/PlasmaPower/nano-vanity) - A CPU & GPU Nano vanity address generator, written in Rust
+* [frankh/nano-vanity](https://github.com/frankh/nano-vanity) - A CPU only, simple vanity address generator, written in Go
+
+<a name="NetworkTools"></a>
+### Network Tools
+* [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
+
+<a name="Privacy"></a>
+### Privacy & Anonimity 
+* [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local transaction scrambler.
