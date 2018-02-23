@@ -34,6 +34,7 @@
 <a name="NanoPaperWallets"></a>
 ### Nano Paper Wallets
 * [nano-paper-wallet](https://github.com/vitorcremonez/nano-paper-wallet) - Amazing Nano paper wallet with beautiful design
+* [nano-paper-wallet](https://github.com/jelofsson/nano-paper-wallet) - Responsive Nano paper wallet with multiple themes
 * [rai-paper](https://github.com/Blootoon/rai-paper) - Simple paper wallet for Nano, without seed and address generation
 * [rai-paper-wallet](https://github.com/numtel/rai-paper-wallet/) - Simple paper wallet with seed and address generation
 
