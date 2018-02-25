@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/CMUz7Ni.png"><b />
+  <img src="https://i.imgur.com/RKednCR.png"><b />
   <h2 align="center">A curated list of awesome Nano projects and resources.</h2>
   <p> Note: With the recent spike in Nano popularity, there have been a lot of projects popping up. Most of these projects are still early in development. <b>Please do your own due diligence when getting involved.</b></p>
 </p>
