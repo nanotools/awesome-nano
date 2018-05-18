@@ -19,7 +19,7 @@
 * [Proof of Work Implementations](#ProofofWork)
 * [Vanity Address Generators](#VanityAddress)
 * [Network Tools](#NetworkTools)
-* [Privacy & Anonimity](#Privacy)
+* [Privacy & Anonymity](#Privacy)
 <a name="NanoWallets"></a>
 ### Nano Wallets
 * [NanoWebWallet](https://github.com/jaimehgb/RaiWalletV2/) - Popular web wallet for Nano
@@ -114,5 +114,5 @@
 * [Wireshark Packet Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5) - Inspect packets on the network
 
 <a name="Privacy"></a>
-### Privacy & Anonimity 
+### Privacy & Anonymity 
 * [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local transaction scrambler.
