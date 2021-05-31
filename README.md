@@ -91,6 +91,7 @@
 * [BrainBlocks iOS App](https://github.com/brainblocks/brainblocks-ios) - BrainBlocks iOS app
 * [BrainBlocks iOS SDK](https://github.com/brainblocks/brainblocks-ios-sdk) - iOS SDK for integrating BrainBlocks into a mobile app
 * [BrainBlocks js client](https://github.com/brainblocks/brainblocks) - Client-side javascript client for brainblocks.io
+* [Accept Nano](https://accept-nano.com) - Self-hosted payment gateway
 
 <a name="ProofofWork"></a>
 ### Proof of Work Implementations
